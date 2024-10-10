@@ -4,7 +4,7 @@
 
 ### - 👨‍🎓 Estou realizando meu Bacharelado em Ciências da Computação e Meu Tecnólogo em Inteligência Artificial Aplicada
 
-## - 🕵️ Curiosidade: Finalizei meu rimeiro curso de computação com apenas 6 anos... E meu primeiro código escrito foi em 2017 aos meus 13 anos
+## - 🕵️ Curiosidade: Finalizei meu primeiro curso de computação com apenas 6 anos... E meu primeiro código escrito foi em 2017 aos meus 13 anos
 <div><br></div>
 
 <div>

@@ -28,6 +28,7 @@
   <img align="center" alt="Erick Language Markdown - TensorFlow" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
   <img align="center" alt="Erick Language Markdown - Keras" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"/>
   <img align="center" alt="Erick Language Markdown - Keras" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
+  <img align="center" alt="Erick Language Markdown - Keras" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg"/>
 </div>
 
 #### Além dessas, Gosto de trabalhar com servidores windows e linux... mas quando possível, é claro que nós damos uns pulinhos nos serviços da AWS 🤘

@@ -45,4 +45,4 @@
 
 ##
 
-## Se você quiser ver um pouco mais sobre mim, esse link aqui é GRATUITO para entrar. Clica nele, sem medo: http://3.226.151.106:8080/personal_profile/
+## É isso

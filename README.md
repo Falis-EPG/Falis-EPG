@@ -28,7 +28,7 @@
   <img align="center" alt="Erick Language Markdown - TensorFlow" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/>
   <img align="center" alt="Erick Language Markdown - Keras" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"/>
   <img align="center" alt="Erick Language Markdown - PyTorch" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/>
-  <img align="center" alt="Erick Language Markdown - VisualStudio" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"/>
+  <img align="center" alt="Erick Language Markdown - VisualStudioCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Erick Language Markdown - Ubunto" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"/>
   <img align="center" alt="Erick Language Markdown - scikitlearn" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="center" alt="Erick Language Markdown - numpy" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>

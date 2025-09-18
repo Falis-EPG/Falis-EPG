@@ -8,8 +8,8 @@
 <div><br></div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats-1pdn61zad-falis-epgs-projects.vercel.app/api?username=Falis-EPG&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-1pdn61zad-falis-epgs-projects.vercel.app/api/top-langs/?username=Falis-EPG&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-fefmy8ckm-falis-epgs-projects.vercel.app/api?username=Falis-EPG&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-fefmy8ckm-falis-epgs-projects.vercel.app/api/top-langs/?username=Falis-EPG&layout=compact"/>
 </div>
 
 #### Meu Progresso... 👆

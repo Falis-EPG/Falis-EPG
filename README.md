@@ -88,7 +88,7 @@ I work across the full stack:
 ## 🌍 Open to Opportunities
 
 Currently based in Brazil 🇧🇷  
-Open to **international opportunities (Canada 🇨🇦)**  
+Open to **international opportunities (Canada 🇨🇦 - Vancouver)**  
 
 ---
 

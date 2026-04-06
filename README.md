@@ -15,53 +15,65 @@ I build **AI systems that work in production**.
 
 My focus is not just training models — but designing **end-to-end systems** that transform data into real business impact.
 
-- 🏭 Industrial ML systems (predictive maintenance, forecasting)  
+- 🏭 Industrial ML systems (forecasting, optimization)  
 - 🧩 Multi-domain intelligence platforms (logistics, sales, production)  
 - 🧪 Scientific AI (graph-based chemical prediction)  
-- 👁️ Computer vision pipelines (image classification at scale)  
+- 👁️ Computer vision pipelines  
 - 🤖 LLM-based automation and AI products  
 
-I work across the full stack of AI systems:
+I work across the full stack:  
 **data → modeling → deployment → business impact**
 
 ---
 
 ## 🔥 Selected Work
 
-Here are some of the systems I’ve built:
-
 - 📊 **Predictive Unloading System**  
   Reduced forecasting error from **~20 hours → ~40 minutes**
 
 - 🧩 **Multi-Domain Forecasting Platform**  
-  ML models for logistics, sales, and production (up to **94% accuracy**)
+  ML models across business areas (up to **94% accuracy**)
 
 - 🧪 **Graph-Based Chemical Prediction**  
   Reduced R&D cycles from **weeks → minutes**
 
 - 👁️ **Wildlife Image Classification Pipeline**  
-  Automated species identification from camera trap images
+  Automated classification and dataset organization
 
-- 🤖 **LLM Automation (WhatsApp System)**  
-  End-to-end business process automation using AI
+- 🤖 **LLM Automation System (WhatsApp)**  
+  End-to-end business process automation
 
 - 🎙️ **Meeting Intelligence System**  
-  Speech-to-text + LLM summaries + conversational querying
-
-👉 Check my repositories and portfolio for more details.
+  Speech-to-text + LLM summaries + AI chat interface
 
 ---
 
 ## ⚙️ Tech Stack
 
-**AI / ML**
-Python · Scikit-learn · XGBoost · PyTorch · TensorFlow · DeepChem  
+### 🧠 AI / Machine Learning
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45" />
+</div>
 
-**Data & Backend**
-Pandas · SQL · Flask · APIs · Data Pipelines  
+### 📊 Data & Backend
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45" />
+</div>
 
-**Systems**
-Docker · Linux · AWS · Automation · System Integration  
+### ⚙️ Systems & Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" />
+</div>
 
 ---
 
